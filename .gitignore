@@ -1,0 +1,13 @@
+Library/
+instance/
+Temp/
+Logs/
+UserSettings/
+.vs/
+*.vsconfig
+*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
