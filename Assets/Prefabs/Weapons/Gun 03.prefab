@@ -234,11 +234,11 @@ MonoBehaviour:
   - {fileID: 1400237239139593394}
   - {fileID: 4620765540290326668}
   projectile: {fileID: -565077652033266384, guid: db13d5e00e7f4e24d93d3fc83d58fb3c, type: 3}
-  coolDownTime: 300
+  coolDownTime: 150
   muzzleVelocity: 50
   burstCount: 5
   projectilesPerMag: 5
-  damagePerProjectile: 2.5
+  damagePerProjectile: 4
   kickMinMax: {x: 0.2, y: 0.35}
   recoilAngleMinMax: {x: 16, y: 35}
   recoilMoveSettleTime: 0.1
